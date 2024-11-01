@@ -6,7 +6,7 @@
 
 Я начинабщий тестировщик веб-приложений. 
 
-- 📫 Как связаться со мной: [![Telegram](https://img.shields.io/badge/-@k_vena-blue?style=flat&logo=LinkedIn&logoColor=white)](https://t.me/k_vena) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:qa.kvena1908@gmail.com)
+- 📫 Как связаться со мной: [![Telegram](https://img.shields.io/badge/-@k_vena-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/k_vena) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:qa.kvena1908@gmail.com)
 
 ---
 ### 🤝 Социальные сети:
