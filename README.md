@@ -1,4 +1,4 @@
-![Header](https://github.com/Veronika-Korchuganova/Veronika-Korchuganova/blob/main/assets/Header.jpg)
+![Header](https://github.com/Veronika-Korchuganova/Veronika-Korchuganova/blob/main/assets/Header%20github.jpg)
 
 # Привет, меня зовут Вероника!
 
