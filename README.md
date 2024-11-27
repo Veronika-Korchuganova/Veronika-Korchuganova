@@ -16,8 +16,19 @@
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
     </a>
   </div>
-  
+
+
 ---
+
+### - Портфолио:
+
+<div>
+  <a href = "https://docs.google.com/spreadsheets/d/1uyJ_Ny8o6l8byMiUne1RlakE8y55pszj8YuUxlxtuSY/edit?usp=sharing" target="_blank">SQL запросы</a>
+</div>
+
+
+----
+
 
 ### 📁 Тестовая документация:
 
@@ -57,11 +68,3 @@
 </div>
 
 ---
-
-### - Портфолио:
-
-<div>
-  <a href = "https://docs.google.com/spreadsheets/d/1uyJ_Ny8o6l8byMiUne1RlakE8y55pszj8YuUxlxtuSY/edit?usp=sharing" target="_blank">SQL запросы</a>
-</div>
-
-----
