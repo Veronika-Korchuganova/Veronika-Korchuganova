@@ -23,7 +23,7 @@
 ### - Портфолио:
 
 <div>
-  <a href = "https://docs.google.com/spreadsheets/d/1uyJ_Ny8o6l8byMiUne1RlakE8y55pszj8YuUxlxtuSY/edit?usp=sharing" target="_blank">SQL запросы</a>
+  - <a href = "https://docs.google.com/spreadsheets/d/1uyJ_Ny8o6l8byMiUne1RlakE8y55pszj8YuUxlxtuSY/edit?usp=sharing" target="_blank">SQL запросы</a>
 </div>
 
 
