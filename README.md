@@ -1,4 +1,4 @@
-![Header](https://github.com/Veronika-Korchuganova/Veronika-Korchuganova/blob/main/assets/Header%20(name).jpg)
+
 
 ---
 
@@ -53,7 +53,7 @@
 ### 💾 Работа с данными:
 
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
+  <a href = "https://docs.google.com/spreadsheets/d/1uyJ_Ny8o6l8byMiUne1RlakE8y55pszj8YuUxlxtuSY/edit?usp=sharing" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp</a>
 </div>
 
 ---
