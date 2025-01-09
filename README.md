@@ -3,8 +3,8 @@
   Привет!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
----
 
+---
 ### 👨‍💻 Обо мне:
 
 Меня зовут Вероника! Я начинабщий тестировщик веб-приложений. 
@@ -26,6 +26,8 @@
 ### 📋 Портфолио:
 
 <div>
+  ➤ <a href = "https://docs.google.com/spreadsheets/d/1fbflwgfheyv_WvO9Gt1oUmHH7H0cyuR5ghg28m6Rvgs/edit?usp=sharing" target="_blank">Чек-листы и тест кейсы</a>
+  ➤ <a href = "https://docs.google.com/spreadsheets/d/1XoT8hO7oFG00bTO49nGOoWTQRpfoQ-JRVoq53tOR-W0/edit?usp=sharing" target="_blank">Баг репорты</a>
   ➤ <a href = "https://docs.google.com/spreadsheets/d/1uyJ_Ny8o6l8byMiUne1RlakE8y55pszj8YuUxlxtuSY/edit?usp=sharing" target="_blank">SQL запросы</a>
 </div>
 
