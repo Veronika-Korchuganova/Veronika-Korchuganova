@@ -15,7 +15,7 @@
 ### 🤝 Социальные сети:
 
   <div id="badges">
-    <a href="https://t.me/k_vena" target="_blank">
+    <a href="https://t.me/k_vena" rel="noflow target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
     </a>
   </div>
@@ -26,11 +26,15 @@
 ### 📋 Портфолио:
 
 <div>
-  ➤ <a href = "https://docs.google.com/spreadsheets/d/1fbflwgfheyv_WvO9Gt1oUmHH7H0cyuR5ghg28m6Rvgs/edit?usp=sharing" target="_blank">Чек-листы и тест кейсы</a>
-  ➤ <a href = "https://docs.google.com/spreadsheets/d/1XoT8hO7oFG00bTO49nGOoWTQRpfoQ-JRVoq53tOR-W0/edit?usp=sharing" target="_blank">Баг репорты</a>
-  ➤ <a href = "https://docs.google.com/spreadsheets/d/1uyJ_Ny8o6l8byMiUne1RlakE8y55pszj8YuUxlxtuSY/edit?usp=sharing" target="_blank">SQL запросы</a>
+  ➤ <a href = "https://docs.google.com/spreadsheets/d/1fbflwgfheyv_WvO9Gt1oUmHH7H0cyuR5ghg28m6Rvgs/edit?usp=sharing" rel="noflow target="_blank">Чек-листы и тест кейсы</a>
+  ➤ <a href = "https://docs.google.com/spreadsheets/d/1XoT8hO7oFG00bTO49nGOoWTQRpfoQ-JRVoq53tOR-W0/edit?usp=sharing" rel="noflow target="_blank">Баг репорты</a>
+  ➤ <a href = "https://docs.google.com/spreadsheets/d/1uyJ_Ny8o6l8byMiUne1RlakE8y55pszj8YuUxlxtuSY/edit?usp=sharing" rel="noflow target="_blank">SQL запросы</a>
 </div>
 
+---
+
+### Сертификаты
+- <a href="https://stepik.org/cert/2628629" rel="noflow">Тестирование ПО с нуля, 2024</a>
 
 ----
 
@@ -58,7 +62,7 @@
 ### 💾 Работа с данными:
 
 <div>
-  <a href = "https://docs.google.com/spreadsheets/d/1uyJ_Ny8o6l8byMiUne1RlakE8y55pszj8YuUxlxtuSY/edit?usp=sharing" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp</a>
+  <a href = "https://docs.google.com/spreadsheets/d/1uyJ_Ny8o6l8byMiUne1RlakE8y55pszj8YuUxlxtuSY/edit?usp=sharing" rel="noflow target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp</a>
 </div>
 
 ---
