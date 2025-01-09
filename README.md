@@ -1,10 +1,13 @@
 
-
+<h1>
+  Привет!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 ---
 
 ### 👨‍💻 Обо мне:
 
-Я начинабщий тестировщик веб-приложений. 
+Меня зовут Вероника! Я начинабщий тестировщик веб-приложений. 
 
 - 📫 Как связаться со мной: [![Telegram](https://img.shields.io/badge/-@k_vena-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/k_vena) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:qa.kvena1908@gmail.com)
 
