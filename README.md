@@ -75,7 +75,7 @@
 ### ✏️ Работа с кодом:
 
 <div>
-  <a href = "https://github.com/Veronika-Korchuganova">
+  <a href = "https://github.com/Veronika-Korchuganova/GIT.git">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>
   </a>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
