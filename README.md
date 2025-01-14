@@ -28,6 +28,7 @@
 
   - <a href = "https://docs.google.com/spreadsheets/d/1fbflwgfheyv_WvO9Gt1oUmHH7H0cyuR5ghg28m6Rvgs/edit?usp=sharing" rel="noflow">Чек-листы и тест кейсы</a>
   - <a href = "https://docs.google.com/spreadsheets/d/1XoT8hO7oFG00bTO49nGOoWTQRpfoQ-JRVoq53tOR-W0/edit?usp=sharing" rel="noflow">Баг репорты</a>
+  - <a href = "https://www.postman.com/satellite-participant-3564536/pet-store-test/collection/z19quls/test-collection" rel=""notflow>HTTP Requests</a>
   - <a href = "https://docs.google.com/spreadsheets/d/1uyJ_Ny8o6l8byMiUne1RlakE8y55pszj8YuUxlxtuSY/edit?usp=sharing" rel="noflow">SQL запросы</a>
 </div>
 
@@ -64,7 +65,9 @@
 ### 💾 Работа с данными:
 
 <div>
-  <a href = "https://docs.google.com/spreadsheets/d/1uyJ_Ny8o6l8byMiUne1RlakE8y55pszj8YuUxlxtuSY/edit?usp=sharing" rel="noflow target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp</a>
+  <a href = "https://docs.google.com/spreadsheets/d/1uyJ_Ny8o6l8byMiUne1RlakE8y55pszj8YuUxlxtuSY/edit?usp=sharing" rel="noflow" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>
+  </a>&nbsp
 </div>
 
 ---
@@ -72,8 +75,9 @@
 ### ✏️ Работа с кодом:
 
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png?20180723054350" title="bash" alt="bash" width="40" height="40"/>&nbsp
+  <a href = "https://github.com/Veronika-Korchuganova">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>
+  </a>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
   
 </div>
