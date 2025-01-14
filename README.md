@@ -28,7 +28,7 @@
 
   - <a href = "https://docs.google.com/spreadsheets/d/1fbflwgfheyv_WvO9Gt1oUmHH7H0cyuR5ghg28m6Rvgs/edit?usp=sharing" rel="noflow">Чек-листы и тест кейсы</a>
   - <a href = "https://docs.google.com/spreadsheets/d/1XoT8hO7oFG00bTO49nGOoWTQRpfoQ-JRVoq53tOR-W0/edit?usp=sharing" rel="noflow">Баг репорты</a>
-  - <a href = "https://www.postman.com/satellite-participant-3564536/pet-store-test/collection/z19quls/test-collection" rel=""notflow>HTTP Requests</a>
+  - <a href = "https://www.postman.com/satellite-participant-3564536/pet-store-test/collection/z19quls/test-collection" rel="notflow">HTTP Requests</a>
   - <a href = "https://docs.google.com/spreadsheets/d/1uyJ_Ny8o6l8byMiUne1RlakE8y55pszj8YuUxlxtuSY/edit?usp=sharing" rel="noflow">SQL запросы</a>
 </div>
 
